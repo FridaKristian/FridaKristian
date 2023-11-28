@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FridaKristian
 <!--- 👀 I’m interested in ... --->
-- 🌱 I’m currently learning React and to take care of my plants
+- 🌱 I’m currently learning Express.js, MongoDB and to take care of my plants
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me frida.kristiansson@gmail.com
 
